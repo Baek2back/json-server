@@ -1,0 +1,25 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baek2back/json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baek2back/json-server/issues"
+  },
+  "homepage": "https://github.com/Baek2back/json-server#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3",
+    "lowdb": "^1.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
